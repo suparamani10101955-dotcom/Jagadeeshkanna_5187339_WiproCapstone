@@ -1,0 +1,67 @@
+2026-05-21 19:50:26,730 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-21 19:50:34,691 | INFO | environment.py | Starting scenario: Apply owner, dropdown, and checkbox filters
+2026-05-21 19:50:38,175 | INFO | environment.py | Starting scenario: Login flow until manual OTP entry
+2026-05-21 19:50:41,601 | INFO | environment.py | Starting scenario: Open a filtered property details page
+2026-05-21 19:50:45,161 | INFO | environment.py | Starting scenario: Navigate to property search results after login
+2026-05-21 19:51:19,069 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-21 19:51:51,358 | ERROR | environment.py | Step failed: the user enters mobile number "9629705329"
+2026-05-21 19:51:51,566 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_user_enters_mobile_number__9629705329__20260521_195151.png
+2026-05-21 19:51:51,782 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-21 19:51:51,782 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260521_195151.png
+2026-05-21 19:51:51,787 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-21 19:51:54,154 | INFO | environment.py | Starting scenario: Apply owner, dropdown, and checkbox filters
+2026-05-21 19:52:29,231 | ERROR | environment.py | Step failed: the user enters mobile number "9629705329"
+2026-05-21 19:52:29,448 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Apply_owner__dropdown__and_checkbox_filters_the_user_enters_mobile_number__9629705329__20260521_195229.png
+2026-05-21 19:52:29,672 | ERROR | environment.py | Scenario failed: Apply owner, dropdown, and checkbox filters
+2026-05-21 19:52:29,673 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Apply_owner__dropdown__and_checkbox_filters_scenario_failure_20260521_195229.png
+2026-05-21 19:52:29,678 | INFO | environment.py | Closing browser for scenario: Apply owner, dropdown, and checkbox filters
+2026-05-21 19:52:32,201 | INFO | environment.py | Starting scenario: Login flow until manual OTP entry
+2026-05-21 19:53:02,229 | ERROR | environment.py | Step failed: the user enters mobile number "9629705329"
+2026-05-21 19:53:02,446 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Login_flow_until_manual_OTP_entry_the_user_enters_mobile_number__9629705329__20260521_195302.png
+2026-05-21 19:53:02,647 | ERROR | environment.py | Scenario failed: Login flow until manual OTP entry
+2026-05-21 19:53:02,647 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Login_flow_until_manual_OTP_entry_scenario_failure_20260521_195302.png
+2026-05-21 19:53:02,652 | INFO | environment.py | Closing browser for scenario: Login flow until manual OTP entry
+2026-05-21 19:53:05,016 | INFO | environment.py | Starting scenario: Open a filtered property details page
+2026-05-21 19:53:34,790 | ERROR | environment.py | Step failed: the user enters mobile number "9629705329"
+2026-05-21 19:53:34,997 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Open_a_filtered_property_details_page_the_user_enters_mobile_number__9629705329__20260521_195334.png
+2026-05-21 19:53:35,227 | ERROR | environment.py | Scenario failed: Open a filtered property details page
+2026-05-21 19:53:35,227 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Open_a_filtered_property_details_page_scenario_failure_20260521_195335.png
+2026-05-21 19:53:35,231 | INFO | environment.py | Closing browser for scenario: Open a filtered property details page
+2026-05-21 19:53:37,621 | INFO | environment.py | Starting scenario: Navigate to property search results after login
+2026-05-21 19:54:10,394 | ERROR | environment.py | Step failed: the user enters mobile number "9629705329"
+2026-05-21 19:54:10,610 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Navigate_to_property_search_results_after_login_the_user_enters_mobile_number__9629705329__20260521_195410.png
+2026-05-21 19:54:10,806 | ERROR | environment.py | Scenario failed: Navigate to property search results after login
+2026-05-21 19:54:10,806 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Navigate_to_property_search_results_after_login_scenario_failure_20260521_195410.png
+2026-05-21 19:54:10,811 | INFO | environment.py | Closing browser for scenario: Navigate to property search results after login
+2026-05-21 20:11:34,741 | INFO | environment.py | Starting scenario: Apply owner, dropdown, and checkbox filters
+2026-05-21 20:12:45,271 | ERROR | environment.py | Step failed: the user searches for properties
+2026-05-21 20:12:45,502 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Apply_owner__dropdown__and_checkbox_filters_the_user_searches_for_properties_20260521_201245.png
+2026-05-21 20:12:45,744 | ERROR | environment.py | Scenario failed: Apply owner, dropdown, and checkbox filters
+2026-05-21 20:12:45,744 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Apply_owner__dropdown__and_checkbox_filters_scenario_failure_20260521_201245.png
+2026-05-21 20:12:45,751 | INFO | environment.py | Closing browser for scenario: Apply owner, dropdown, and checkbox filters
+2026-05-21 20:12:48,205 | INFO | environment.py | Starting scenario: Login flow until manual OTP entry
+2026-05-21 20:13:37,184 | INFO | environment.py | Closing browser for scenario: Login flow until manual OTP entry
+2026-05-21 20:13:43,673 | INFO | environment.py | Starting scenario: Open a filtered property details page
+2026-05-21 20:14:52,350 | ERROR | environment.py | Step failed: the user searches for properties
+2026-05-21 20:14:52,584 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Open_a_filtered_property_details_page_the_user_searches_for_properties_20260521_201452.png
+2026-05-21 20:14:52,831 | ERROR | environment.py | Scenario failed: Open a filtered property details page
+2026-05-21 20:14:52,832 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Open_a_filtered_property_details_page_scenario_failure_20260521_201452.png
+2026-05-21 20:14:52,835 | INFO | environment.py | Closing browser for scenario: Open a filtered property details page
+2026-05-21 20:14:55,361 | INFO | environment.py | Starting scenario: Navigate to property search results after login
+2026-05-21 20:16:03,438 | ERROR | environment.py | Step failed: the user searches for properties
+2026-05-21 20:16:03,716 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Navigate_to_property_search_results_after_login_the_user_searches_for_properties_20260521_201603.png
+2026-05-21 20:16:03,966 | ERROR | environment.py | Scenario failed: Navigate to property search results after login
+2026-05-21 20:16:03,966 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Navigate_to_property_search_results_after_login_scenario_failure_20260521_201603.png
+2026-05-21 20:16:03,970 | INFO | environment.py | Closing browser for scenario: Navigate to property search results after login
+2026-05-21 20:16:06,338 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-21 20:17:14,068 | ERROR | environment.py | Step failed: the user searches for properties
+2026-05-21 20:17:14,307 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_user_searches_for_properties_20260521_201714.png
+2026-05-21 20:17:14,499 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-21 20:17:14,499 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260521_201714.png
+2026-05-21 20:17:14,502 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-21 20:22:48,867 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-21 20:23:57,199 | ERROR | environment.py | Step failed: the user searches for properties
+2026-05-21 20:23:57,454 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_user_searches_for_properties_20260521_202357.png
+2026-05-21 20:23:57,692 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-21 20:23:57,692 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260521_202357.png
+2026-05-21 20:23:57,696 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow

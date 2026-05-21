@@ -1,0 +1,10 @@
+2026-05-18 12:49:01 | INFO     | pytest | Starting browser: chrome
+2026-05-18 12:49:17 | INFO     | pytest | Closing browser
+2026-05-18 12:49:19 | INFO     | pytest | Starting browser: chrome
+2026-05-18 12:50:48 | INFO     | pytest | Closing browser
+2026-05-18 12:50:50 | INFO     | pytest | Starting browser: chrome
+2026-05-18 12:51:05 | INFO     | pytest | Closing browser
+2026-05-18 12:51:07 | INFO     | pytest | Starting browser: chrome
+2026-05-18 12:51:22 | INFO     | pytest | Closing browser
+2026-05-18 12:51:25 | INFO     | pytest | Starting browser: chrome
+2026-05-18 12:52:57 | INFO     | pytest | Closing browser

@@ -1,0 +1,8 @@
+2026-05-18 15:05:52 | INFO     | pytest | Starting browser: edge
+2026-05-18 15:05:55 | INFO     | e2e | Opening home page for end-to-end flow: https://www.99acres.com/
+2026-05-18 15:06:02 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_01_home_page_opened_20260518_150602.png
+2026-05-18 15:06:02 | INFO     | e2e | Searching properties for location: Mumbai
+2026-05-18 15:06:08 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_02_mumbai_results_loaded_20260518_150607.png
+2026-05-18 15:06:36 | ERROR    | pytest | Test failed. Screenshot saved: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\tests_test_e2e_99acres.py_Test99AcresEndToEnd_test_search_and_filter_mumbai_properties_20260518_150636.png
+2026-05-18 15:08:56 | ERROR    | pytest | Test failed. Screenshot saved: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\tests_test_property_search.py_TestPropertySearch_test_mumbai_search_and_requested_filters_with_xpaths_20260518_150856.png
+2026-05-18 15:08:56 | INFO     | pytest | Closing browser after complete test session

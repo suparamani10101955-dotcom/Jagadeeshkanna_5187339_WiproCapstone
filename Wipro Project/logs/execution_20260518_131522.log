@@ -1,0 +1,13 @@
+2026-05-18 13:15:22 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:15:28 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-18 13:15:29 | INFO     | HomePage | Clicking element: ('xpath', '/html/body/div[1]/div/div[1]/div[2]/div[2]/div[6]/div[1]/i')
+2026-05-18 13:15:29 | INFO     | HomePage | Clicking element: ('xpath', '/html/body/div[1]/div/div[2]/div[2]/div[2]/div[6]/div[2]/div[1]/div[1]')
+2026-05-18 13:15:31 | INFO     | LoginPage | Entering mobile number using locator: ('xpath', "//*[@id='app']/div/div[7]/div[2]/div[1]/div/div/form/div[1]/div/div/input")
+2026-05-18 13:15:32 | INFO     | LoginPage | Paused for 3 seconds after entering mobile number.
+2026-05-18 13:15:35 | INFO     | LoginPage | Clicked available locator: ('xpath', "//*[@id='app']/div/div[7]/div[2]/div[1]/div/div/form/div[2]/button")
+2026-05-18 13:15:35 | INFO     | LoginPage | Paused for 60 seconds so OTP can be entered manually.
+2026-05-18 13:16:36 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:16:36 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:16:36 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:16:36 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:16:36 | INFO     | HomePage | Opening URL: https://www.99acres.com/

@@ -1,0 +1,13 @@
+2026-05-18 11:03:21 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 11:03:28 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-18 11:03:28 | INFO     | HomePage | Clicked available locator: ('css selector', "[data-label='USER_PROFILE_DROPDOWN']")
+2026-05-18 11:03:29 | INFO     | HomePage | Clicked available locator: ('css selector', "[data-label='LR.INITIATE']")
+2026-05-18 11:03:37 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 11:03:44 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 11:03:48 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 11:04:00 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-18 11:04:01 | INFO     | HomePage | Clicked available locator: ('id', 'searchform_search_btn')
+2026-05-18 11:04:05 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 11:04:17 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-18 11:04:18 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[@id='suggestions_custom']/li[@title='Mumbai']")
+2026-05-18 11:04:21 | INFO     | HomePage | Clicked available locator: ('xpath', '//*[@id="searchform_search_btn"]')

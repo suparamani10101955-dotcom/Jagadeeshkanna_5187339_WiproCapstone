@@ -1,0 +1,16 @@
+2026-05-18 13:34:11 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:34:17 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-18 13:34:18 | INFO     | HomePage | Clicking element: ('xpath', '/html/body/div[1]/div/div[1]/div[2]/div[2]/div[6]/div[1]/i')
+2026-05-18 13:34:18 | INFO     | HomePage | Clicking element: ('xpath', '/html/body/div[1]/div/div[2]/div[2]/div[2]/div[6]/div[2]/div[1]/div[1]')
+2026-05-18 13:34:19 | INFO     | LoginPage | Paused for 3 seconds before entering mobile number.
+2026-05-18 13:34:22 | INFO     | LoginPage | Entering mobile number using locator: ('xpath', "//*[@id='app']/div/div[7]/div[2]/div[1]/div/div/form/div[1]/div/div/input")
+2026-05-18 13:34:23 | INFO     | LoginPage | Paused for 3 seconds after entering mobile number.
+2026-05-18 13:34:31 | INFO     | LoginPage | Clicked available locator: ('xpath', "//*[@id='app']/div/div[7]/div[2]/div[1]/div/div/form/div[2]/button")
+2026-05-18 13:34:31 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:34:36 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 13:34:36 | INFO     | HomePage | Clicking element: ('xpath', '/html/body/div[1]/div/div[1]/div[2]/div[2]/div[6]/div[1]/i')
+2026-05-18 13:34:36 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:34:36 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:34:36 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:34:36 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:34:36 | INFO     | HomePage | Opening URL: https://www.99acres.com/

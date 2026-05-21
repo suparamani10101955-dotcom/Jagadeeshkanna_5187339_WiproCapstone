@@ -1,0 +1,4 @@
+2026-05-20 14:41:48 | INFO     | pytest | Starting browser: chrome
+2026-05-20 14:42:01 | INFO     | tests | Captured step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\individual_property_search_before_details_20260520_144158.png
+2026-05-20 14:42:30 | INFO     | tests | Captured step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\individual_property_details_opened_20260520_144229.png
+2026-05-20 14:42:48 | INFO     | pytest | Closing browser after test execution

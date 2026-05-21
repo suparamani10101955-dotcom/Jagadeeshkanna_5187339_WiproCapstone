@@ -1,0 +1,10 @@
+2026-05-20 12:24:50 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:24:53 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-20 12:24:55 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-20 12:24:59 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-20 12:24:59 | INFO     | HomePage | Hovered on login icon: ('xpath', "//i[contains(@class,'icon_userWhite') and contains(@class,'theader__dot')]")
+2026-05-20 12:25:00 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[contains(text(),'LOGIN / REGISTER') or contains(text(),'Login / Register') or contains(text(),'LOGIN/REGISTER') or contains(text(),'Login/Register')]")
+2026-05-20 12:25:00 | INFO     | LoginPage | Entering mobile number using locator: ('xpath', "//input[@data-for='phnNumber']")
+2026-05-20 12:25:06 | INFO     | LoginPage | Clicked available locator: ('xpath', "//button[normalize-space()='Continue']")
+2026-05-20 12:25:10 | INFO     | LoginPage | Waiting up to 60 seconds for login success indicators.
+2026-05-20 12:25:10 | INFO     | pytest | Closing browser after test execution

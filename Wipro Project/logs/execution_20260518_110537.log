@@ -1,0 +1,7 @@
+2026-05-18 11:05:37 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 11:05:42 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 11:06:43 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 11:06:48 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 11:07:24 | ERROR    | HomePage | Missing primary menu items: ['For Buyers', 'For Tenants', 'For Owners', 'For Dealers / Builders', 'Insights']
+2026-05-18 11:07:27 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 11:07:33 | INFO     | HomePage | Cookie confirmation was not shown.

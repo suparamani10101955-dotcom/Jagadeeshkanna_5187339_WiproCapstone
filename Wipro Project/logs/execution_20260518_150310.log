@@ -1,0 +1,3 @@
+2026-05-18 15:03:10 | INFO     | pytest | Starting browser: edge
+2026-05-18 15:04:10 | ERROR    | pytest | Test failed. Screenshot saved: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\tests_test_property_search.py_TestPropertySearch_test_mumbai_search_and_requested_filters_with_xpaths_20260518_150410.png
+2026-05-18 15:04:10 | INFO     | pytest | Closing browser after complete test session

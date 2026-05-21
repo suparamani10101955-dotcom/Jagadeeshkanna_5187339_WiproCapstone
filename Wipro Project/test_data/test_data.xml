@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Worksheet ss:Name="login">
+  <Table>
+   <Row>
+    <Cell><Data ss:Type="String">key</Data></Cell>
+    <Cell><Data ss:Type="String">value</Data></Cell>
+    <Cell><Data ss:Type="String">type</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mobile_number</Data></Cell>
+    <Cell><Data ss:Type="String">9629705329</Data></Cell>
+    <Cell><Data ss:Type="String">str</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">username</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">str</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">password</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">str</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">before_mobile_entry_pause_seconds</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">int</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">after_mobile_entry_pause_seconds</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">int</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">otp_pause_seconds</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String">int</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+ <Worksheet ss:Name="navigation">
+  <Table>
+   <Row>
+    <Cell><Data ss:Type="String">key</Data></Cell>
+    <Cell><Data ss:Type="String">value</Data></Cell>
+    <Cell><Data ss:Type="String">type</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">primary_menu_items</Data></Cell>
+    <Cell><Data ss:Type="String">["For Buyers", "For Tenants", "For Owners", "For Dealers / Builders", "Insights"]</Data></Cell>
+    <Cell><Data ss:Type="String">list</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+ <Worksheet ss:Name="property_search">
+  <Table>
+   <Row>
+    <Cell><Data ss:Type="String">key</Data></Cell>
+    <Cell><Data ss:Type="String">value</Data></Cell>
+    <Cell><Data ss:Type="String">type</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">default_location</Data></Cell>
+    <Cell><Data ss:Type="String">Mumbai</Data></Cell>
+    <Cell><Data ss:Type="String">str</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">filtered_location</Data></Cell>
+    <Cell><Data ss:Type="String">Mumbai</Data></Cell>
+    <Cell><Data ss:Type="String">str</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>

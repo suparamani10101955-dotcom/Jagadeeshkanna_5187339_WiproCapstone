@@ -1,0 +1,11 @@
+2026-05-18 11:58:03 | INFO     | pytest | Starting browser: chrome
+2026-05-18 11:58:19 | INFO     | pytest | Closing browser
+2026-05-18 11:58:21 | INFO     | pytest | Starting browser: chrome
+2026-05-18 11:59:05 | ERROR    | pytest | Test failed. Screenshot saved: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\tests_test_login.py_TestLogin_test_user_can_start_login_flow_20260518_115905.png
+2026-05-18 11:59:05 | INFO     | pytest | Closing browser
+2026-05-18 11:59:08 | INFO     | pytest | Starting browser: chrome
+2026-05-18 11:59:30 | INFO     | pytest | Closing browser
+2026-05-18 11:59:32 | INFO     | pytest | Starting browser: chrome
+2026-05-18 11:59:55 | INFO     | pytest | Closing browser
+2026-05-18 11:59:58 | INFO     | pytest | Starting browser: chrome
+2026-05-18 12:01:33 | INFO     | pytest | Closing browser

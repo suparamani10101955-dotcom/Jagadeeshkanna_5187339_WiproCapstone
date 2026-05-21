@@ -1,0 +1,15 @@
+2026-05-18 15:04:54 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[2]/div/div[2]/div/div[1]')
+2026-05-18 15:04:55 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_min_list"]/li[5]')
+2026-05-18 15:05:06 | INFO     | SearchResultsPage | Requested max-budget dropdown XPath was unavailable; using visible max-budget control.
+2026-05-18 15:05:06 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', "//*[contains(@class, 'bdf__maxValue') and normalize-space()='No max']")
+2026-05-18 15:05:07 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_max_list"]/li[11]')
+2026-05-18 15:05:09 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[4]/div/div/div[2]/div[2]')
+2026-05-18 15:05:11 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '//*[@id="__Owner__"]')
+2026-05-18 15:05:16 | INFO     | SearchResultsPage | Bedroom filters are unavailable after property-type click; selecting Residential Apartment.
+2026-05-18 15:05:16 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='property_type' and self::div]/following-sibling::div//*[@datalabel='PROPTYPE_CLUSTER' and @id='1']")
+2026-05-18 15:05:21 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[7]/div/div[2]/div/div[1]')
+2026-05-18 15:05:21 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[7]/div/div[2]/div/div[3]')
+2026-05-18 15:05:22 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[8]/div/div/div[2]/div[1]/div/label')
+2026-05-18 15:05:29 | INFO     | SearchResultsPage | Optional filter locator was unavailable or already selected: (('xpath', "//*[@id='furnish' and self::div]/following-sibling::div//*[self::div or self::label][normalize-space()][1]"),)
+2026-05-18 15:05:30 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[11]/div/div/div[2]/div[3]')
+2026-05-18 15:05:31 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[11]/div/div/div[2]/div[2]')

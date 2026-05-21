@@ -1,0 +1,5 @@
+2026-05-18 00:36:23 | INFO     | pytest | Starting browser: chrome
+2026-05-18 00:36:26 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 00:36:31 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 00:36:53 | ERROR    | pytest | Test failed. Screenshot saved: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\tests_test_property_search.py_TestPropertySearch_test_mumbai_search_and_requested_filters_with_xpaths_20260518_003653.png
+2026-05-18 00:36:53 | INFO     | pytest | Closing browser

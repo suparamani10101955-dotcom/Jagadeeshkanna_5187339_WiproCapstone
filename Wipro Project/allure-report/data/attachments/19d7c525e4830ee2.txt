@@ -1,0 +1,23 @@
+2026-05-18 15:30:04 | INFO     | pytest | Starting browser: edge
+2026-05-18 15:30:07 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 15:30:10 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-18 15:30:13 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-18 15:30:16 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[@id='suggestions_custom']/li[@title='Mumbai']")
+2026-05-18 15:30:16 | INFO     | HomePage | Clicked available locator: ('xpath', '//*[@id="searchform_search_btn"]')
+2026-05-18 15:30:20 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[2]/div/div[2]/div/div[1]')
+2026-05-18 15:30:23 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_min_list"]/li[5]')
+2026-05-18 15:30:35 | INFO     | SearchResultsPage | Requested max-budget dropdown XPath was unavailable; using visible max-budget control.
+2026-05-18 15:30:35 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', "//*[contains(@class, 'bdf__maxValue') and normalize-space()='No max']")
+2026-05-18 15:30:36 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_max_list"]/li[11]')
+2026-05-18 15:30:36 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[4]/div/div/div[2]/div[2]')
+2026-05-18 15:30:38 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '//*[@id="__Owner__"]')
+2026-05-18 15:31:02 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[7]/div/div[2]/div/div[1]')
+2026-05-18 15:31:03 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='bedroom_num' and self::div]/following-sibling::div//*[@datalabel='BEDROOM_CLUSTER' and @id='1']")
+2026-05-18 15:31:26 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[7]/div/div[2]/div/div[3]')
+2026-05-18 15:31:27 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='bedroom_num' and self::div]/following-sibling::div//*[@datalabel='BEDROOM_CLUSTER' and @id='3']")
+2026-05-18 15:31:38 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[8]/div/div/div[2]/div[1]/div/label')
+2026-05-18 15:31:38 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='furnish' and self::div]")
+2026-05-18 15:31:38 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='furnish' and self::div]/following-sibling::div//*[self::div or self::label][normalize-space()][1]")
+2026-05-18 15:31:40 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[11]/div/div/div[2]/div[3]')
+2026-05-18 15:31:40 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[11]/div/div/div[2]/div[2]')
+2026-05-18 15:31:41 | INFO     | pytest | Closing browser after complete test session

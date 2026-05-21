@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11973","Verify login dialog opens from home page","tests","2026-05-18","passed","2026-05-18","TestLogin","test_login","",""
+"","9573","Verify property search works for a city/locality","tests","2026-05-18","passed","2026-05-18","TestPropertySearch","test_property_search","",""
+"","12097","Verify primary menu items are visible on home page","tests","2026-05-18","passed","2026-05-18","TestNavigation","test_navigation","",""
+"","22344","Verify Mumbai property search supports requested budget filter selection","tests","2026-05-18","passed","2026-05-18","TestPropertySearch","test_property_search","",""
+"","0","Verify configured user can start login flow","tests","2026-05-18","skipped","2026-05-18","TestLogin","test_login","",""

@@ -1,0 +1,38 @@
+2026-05-20 12:51:30 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-20 12:51:33 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-20 12:51:37 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-20 12:51:37 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-20 12:51:38 | INFO     | HomePage | Hovered on login icon: ('xpath', "//i[contains(@class,'icon_userWhite') and contains(@class,'theader__dot')]")
+2026-05-20 12:51:38 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[contains(text(),'LOGIN / REGISTER') or contains(text(),'Login / Register') or contains(text(),'LOGIN/REGISTER') or contains(text(),'Login/Register')]")
+2026-05-20 12:51:40 | INFO     | LoginPage | Entering mobile number using locator: ('xpath', "//input[@data-for='phnNumber']")
+2026-05-20 12:51:45 | INFO     | LoginPage | Clicked available locator: ('xpath', "//button[normalize-space()='Continue']")
+2026-05-20 12:51:50 | INFO     | LoginPage | Mobile number submitted. Pausing for 60 seconds to allow manual OTP entry. No further actions will run during this wait.
+2026-05-20 12:52:50 | INFO     | LoginPage | Manual OTP wait completed. Verifying whether login has completed successfully.
+2026-05-20 12:52:50 | INFO     | LoginPage | Login success confirmed. Waiting 40 seconds for the post-login page to stabilize.
+2026-05-20 12:53:30 | INFO     | LoginPage | Page loaded completely: https://www.99acres.com/
+2026-05-20 12:53:30 | INFO     | LoginPage | Post-login stabilization wait completed. E2E flow can continue.
+2026-05-20 12:53:32 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[@id='suggestions_custom']/li[@title='Mumbai']")
+2026-05-20 12:53:33 | INFO     | HomePage | Clicked available locator: ('xpath', '//*[@id="searchform_search_btn"]')
+2026-05-20 12:53:33 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-20 12:53:36 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[2]/div/div[2]/div/div[1]')
+2026-05-20 12:53:39 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_min_list"]/li[5]')
+2026-05-20 12:53:51 | INFO     | SearchResultsPage | Requested max-budget dropdown XPath was unavailable; using visible max-budget control.
+2026-05-20 12:53:52 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', "//*[contains(@class, 'bdf__maxValue') and normalize-space()='No max']")
+2026-05-20 12:53:52 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_max_list"]/li[11]')
+2026-05-20 12:53:52 | INFO     | SearchResultsPage | Page loaded completely: https://www.99acres.com/search/property/buy/mumbai?city=12&keyword=Mumbai&preference=S&res_com=R
+2026-05-20 12:53:53 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[4]/div/div/div[2]/div[2]')
+2026-05-20 12:53:54 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '//*[@id="__Owner__"]')
+2026-05-20 12:54:16 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[7]/div/div[2]/div/div[1]')
+2026-05-20 12:54:17 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='bedroom_num' and self::div]/following-sibling::div//*[@datalabel='BEDROOM_CLUSTER' and @id='1']")
+2026-05-20 12:54:39 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[7]/div/div[2]/div/div[3]')
+2026-05-20 12:54:39 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='bedroom_num' and self::div]/following-sibling::div//*[@datalabel='BEDROOM_CLUSTER' and @id='3']")
+2026-05-20 12:54:49 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[8]/div/div/div[2]/div[1]/div/label')
+2026-05-20 12:54:49 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='furnish' and self::div]")
+2026-05-20 12:54:49 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='furnish' and self::div]/following-sibling::div//*[self::div or self::label][normalize-space()][1]")
+2026-05-20 12:54:59 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[11]/div/div/div[2]/div[3]')
+2026-05-20 12:55:00 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='amenities' and self::div]/following-sibling::div//*[@datalabel='AMENITIES_CLUSTER'][3]")
+2026-05-20 12:55:09 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[11]/div/div/div[2]/div[2]')
+2026-05-20 12:55:10 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='amenities' and self::div]/following-sibling::div//*[@datalabel='AMENITIES_CLUSTER'][2]")
+2026-05-20 12:55:12 | INFO     | SearchResultsPage | Page loaded completely: https://www.99acres.com/search/property/buy/mumbai?city=12&keyword=Mumbai&preference=S&res_com=R
+2026-05-20 12:55:29 | INFO     | SearchResultsPage | Final action locator was not present, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[3]/div[3]/div[2]/section[2]/div/div/div[2]/div[2]/button[1]')
+2026-05-20 12:55:30 | INFO     | SearchResultsPage | Clicked final action button after filters were applied: ('xpath', '/html/body/div[1]/div/div/div[4]/div[3]/div[2]/section[2]/div/div/div[2]/div[2]/button[1]')

@@ -1,0 +1,5 @@
+2026-05-18 11:05:35 | INFO     | pytest | Starting browser: chrome
+2026-05-18 11:05:37 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 11:05:42 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 11:06:40 | ERROR    | pytest | Test failed. Screenshot saved: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\tests_test_login.py_TestLogin_test_login_dialog_opens_20260518_110640.png
+2026-05-18 11:06:40 | INFO     | pytest | Closing browser

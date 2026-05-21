@@ -1,0 +1,6 @@
+2026-05-18 00:33:45 | INFO     | pytest | Starting browser: chrome
+2026-05-18 00:33:47 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 00:33:51 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 00:34:27 | ERROR    | HomePage | Missing primary menu items: ['For Buyers', 'For Tenants', 'For Owners', 'For Dealers / Builders', 'Insights']
+2026-05-18 00:34:27 | ERROR    | pytest | Test failed. Screenshot saved: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\tests_test_navigation.py_TestNavigation_test_primary_menu_items_visible_20260518_003427.png
+2026-05-18 00:34:27 | INFO     | pytest | Closing browser

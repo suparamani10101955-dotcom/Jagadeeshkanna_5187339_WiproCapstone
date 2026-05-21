@@ -1,0 +1,10 @@
+2026-05-18 22:31:02 | INFO     | e2e | Opening home page for end-to-end flow: https://www.99acres.com/
+2026-05-18 22:31:10 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_01_home_page_opened_20260518_223109.png
+2026-05-18 22:31:10 | INFO     | e2e | Opening login popup from home page.
+2026-05-18 22:31:12 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_02_login_popup_opened_20260518_223111.png
+2026-05-18 22:31:12 | INFO     | e2e | Entering mobile number and pausing for manual OTP entry.
+2026-05-18 22:32:22 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_03_after_manual_otp_pause_20260518_223222.png
+2026-05-18 22:32:22 | INFO     | e2e | Searching properties for location: Mumbai
+2026-05-18 22:32:29 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_04_mumbai_results_loaded_20260518_223228.png
+2026-05-18 22:34:06 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_05_filters_applied_20260518_223406.png
+2026-05-18 22:34:07 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_06_e2e_flow_completed_20260518_223407.png

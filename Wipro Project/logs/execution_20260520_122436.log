@@ -1,0 +1,8 @@
+2026-05-20 12:24:36 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:24:47 | INFO     | pytest | Closing browser after test execution
+2026-05-20 12:24:50 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:25:10 | INFO     | pytest | Closing browser after test execution
+2026-05-20 12:25:13 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:25:28 | INFO     | pytest | Closing browser after test execution
+2026-05-20 12:25:31 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:27:45 | INFO     | pytest | Closing browser after test execution

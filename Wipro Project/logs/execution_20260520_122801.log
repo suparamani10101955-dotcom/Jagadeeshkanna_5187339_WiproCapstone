@@ -1,0 +1,44 @@
+2026-05-20 12:28:02 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:28:26 | ERROR    | pytest | Test failed, but screenshot capture was unavailable: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7ed6be295+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6be2f4+e154]
+	msedgedriver!(No symbol) [0x7ff7ed3eac4e]
+	msedgedriver!(No symbol) [0x7ff7ed428d05]
+	msedgedriver!(No symbol) [0x7ff7ed454022]
+	msedgedriver!(No symbol) [0x7ff7ed3e2767]
+	msedgedriver!(No symbol) [0x7ff7ed4506ae]
+	msedgedriver!(No symbol) [0x7ff7ed44ff3c]
+	msedgedriver!(No symbol) [0x7ff7ed3c2ea5]
+	msedgedriver!(No symbol) [0x7ff7ed4f2519]
+	msedgedriver!(No symbol) [0x7ff7ed4eec93]
+	msedgedriver!(No symbol) [0x7ff7ed4ff182]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6daa68+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6e32f6+33156]
+	msedgedriver!(No symbol) [0x7ff7ed3c183c]
+	msedgedriver!GetHandleVerifier [0x7ff7ed844368+1941c8]
+	KERNEL32!BaseThreadInitThunk [0x7ffd0725e957+17]
+	ntdll!RtlUserThreadStart [0x7ffd0856427c+2c]
+
+2026-05-20 12:28:26 | ERROR    | pytest | Current URL attachment was unavailable: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7ed6be295+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6be2f4+e154]
+	msedgedriver!(No symbol) [0x7ff7ed3eac4e]
+	msedgedriver!(No symbol) [0x7ff7ed428d05]
+	msedgedriver!(No symbol) [0x7ff7ed454022]
+	msedgedriver!(No symbol) [0x7ff7ed3e2767]
+	msedgedriver!(No symbol) [0x7ff7ed4506ae]
+	msedgedriver!(No symbol) [0x7ff7ed44ff3c]
+	msedgedriver!(No symbol) [0x7ff7ed3c2ea5]
+	msedgedriver!(No symbol) [0x7ff7ed4f2519]
+	msedgedriver!(No symbol) [0x7ff7ed4eec93]
+	msedgedriver!(No symbol) [0x7ff7ed4ff182]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6daa68+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6e32f6+33156]
+	msedgedriver!(No symbol) [0x7ff7ed3c183c]
+	msedgedriver!GetHandleVerifier [0x7ff7ed844368+1941c8]
+	KERNEL32!BaseThreadInitThunk [0x7ffd0725e957+17]
+	ntdll!RtlUserThreadStart [0x7ffd0856427c+2c]
+
+2026-05-20 12:28:26 | INFO     | pytest | Closing browser after test execution

@@ -1,0 +1,47 @@
+2026-05-18 15:09:48 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 15:09:51 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-18 15:09:55 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-18 15:09:55 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-18 15:09:58 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[@id='suggestions_custom']/li[@title='Mumbai']")
+2026-05-18 15:10:01 | INFO     | HomePage | Clicked available locator: ('xpath', '//*[@id="searchform_search_btn"]')
+2026-05-18 15:10:01 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/search/property/buy/mumbai?city=12&preference=S&res_com=R
+2026-05-18 15:10:02 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[2]/div/div[2]/div/div[1]')
+2026-05-18 15:10:03 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_min_list"]/li[5]')
+2026-05-18 15:10:13 | INFO     | SearchResultsPage | Requested max-budget dropdown XPath was unavailable; using visible max-budget control.
+2026-05-18 15:10:14 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', "//*[contains(@class, 'bdf__maxValue') and normalize-space()='No max']")
+2026-05-18 15:10:14 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_max_list"]/li[11]')
+2026-05-18 15:10:16 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[4]/div/div/div[2]/div[2]')
+2026-05-18 15:10:17 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '//*[@id="__Owner__"]')
+2026-05-18 15:10:21 | INFO     | SearchResultsPage | Bedroom filters are unavailable after property-type click; selecting Residential Apartment.
+2026-05-18 15:10:22 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='property_type' and self::div]/following-sibling::div//*[@datalabel='PROPTYPE_CLUSTER' and @id='1']")
+2026-05-18 15:10:24 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 15:10:27 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-18 15:10:32 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 15:10:32 | INFO     | HomePage | Hovered on login icon: ('xpath', "//i[contains(@class,'icon_userWhite') and contains(@class,'theader__dot')]")
+2026-05-18 15:10:32 | INFO     | HomePage | Clicking element: ('xpath', "//*[contains(text(),'LOGIN / REGISTER') or contains(text(),'Login / Register') or contains(text(),'LOGIN/REGISTER') or contains(text(),'Login/Register')]")
+2026-05-18 15:10:33 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 15:10:35 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-18 15:10:39 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 15:10:40 | INFO     | HomePage | Hovered on login icon: ('xpath', "//i[contains(@class,'icon_userWhite') and contains(@class,'theader__dot')]")
+2026-05-18 15:10:40 | INFO     | HomePage | Clicking element: ('xpath', "//*[contains(text(),'LOGIN / REGISTER') or contains(text(),'Login / Register') or contains(text(),'LOGIN/REGISTER') or contains(text(),'Login/Register')]")
+2026-05-18 15:11:51 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 15:11:53 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-18 15:11:58 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 15:11:58 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 15:12:00 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-18 15:12:05 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 15:12:06 | INFO     | HomePage | Clicked available locator: ('id', 'searchform_search_btn')
+2026-05-18 15:12:09 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 15:12:11 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-18 15:12:16 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 15:12:17 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[@id='suggestions_custom']/li[@title='Mumbai']")
+2026-05-18 15:12:20 | INFO     | HomePage | Clicked available locator: ('xpath', '//*[@id="searchform_search_btn"]')
+2026-05-18 15:12:21 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[2]/div/div[2]/div/div[1]')
+2026-05-18 15:12:22 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_min_list"]/li[5]')
+2026-05-18 15:12:34 | INFO     | SearchResultsPage | Requested max-budget dropdown XPath was unavailable; using visible max-budget control.
+2026-05-18 15:12:35 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', "//*[contains(@class, 'bdf__maxValue') and normalize-space()='No max']")
+2026-05-18 15:12:35 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_max_list"]/li[11]')
+2026-05-18 15:12:37 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[4]/div/div/div[2]/div[2]')
+2026-05-18 15:12:38 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '//*[@id="__Owner__"]')
+2026-05-18 15:12:43 | INFO     | SearchResultsPage | Bedroom filters are unavailable after property-type click; selecting Residential Apartment.
+2026-05-18 15:12:43 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='property_type' and self::div]/following-sibling::div//*[@datalabel='PROPTYPE_CLUSTER' and @id='1']")

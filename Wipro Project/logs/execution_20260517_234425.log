@@ -1,0 +1,9 @@
+2026-05-17 23:44:25 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-17 23:44:31 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-17 23:44:31 | INFO     | HomePage | Clicked available locator: ('css selector', "[data-label='USER_PROFILE_DROPDOWN']")
+2026-05-17 23:44:32 | INFO     | HomePage | Clicked available locator: ('css selector', "[data-label='LR.INITIATE']")
+2026-05-17 23:44:40 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-17 23:44:45 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-17 23:44:49 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-17 23:44:54 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-17 23:44:56 | INFO     | HomePage | Clicked available locator: ('id', 'searchform_search_btn')

@@ -1,0 +1,24 @@
+2026-05-20 12:25:45 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[2]/div/div[2]/div/div[1]')
+2026-05-20 12:25:49 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_min_list"]/li[5]')
+2026-05-20 12:26:02 | INFO     | SearchResultsPage | Requested max-budget dropdown XPath was unavailable; using visible max-budget control.
+2026-05-20 12:26:02 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', "//*[contains(@class, 'bdf__maxValue') and normalize-space()='No max']")
+2026-05-20 12:26:03 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_max_list"]/li[11]')
+2026-05-20 12:26:03 | INFO     | SearchResultsPage | Page loaded completely: https://www.99acres.com/search/property/buy/mumbai?city=12&keyword=Mumbai&preference=S&res_com=R
+2026-05-20 12:26:04 | INFO     | SearchResultsPage | Stale element while clicking ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[4]/div/div/div[2]/div[2]'). Retry 1/3.
+2026-05-20 12:26:05 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[4]/div/div/div[2]/div[2]')
+2026-05-20 12:26:06 | INFO     | SearchResultsPage | Stale element while clicking ('xpath', '//*[@id="__Owner__"]'). Retry 1/3.
+2026-05-20 12:26:07 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '//*[@id="__Owner__"]')
+2026-05-20 12:26:31 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[7]/div/div[2]/div/div[1]')
+2026-05-20 12:26:31 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='bedroom_num' and self::div]/following-sibling::div//*[@datalabel='BEDROOM_CLUSTER' and @id='1']")
+2026-05-20 12:26:53 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[7]/div/div[2]/div/div[3]')
+2026-05-20 12:26:54 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='bedroom_num' and self::div]/following-sibling::div//*[@datalabel='BEDROOM_CLUSTER' and @id='3']")
+2026-05-20 12:27:04 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[8]/div/div/div[2]/div[1]/div/label')
+2026-05-20 12:27:04 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='furnish' and self::div]")
+2026-05-20 12:27:05 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='furnish' and self::div]/following-sibling::div//*[self::div or self::label][normalize-space()][1]")
+2026-05-20 12:27:14 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[11]/div/div/div[2]/div[3]')
+2026-05-20 12:27:16 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='amenities' and self::div]/following-sibling::div//*[@datalabel='AMENITIES_CLUSTER'][3]")
+2026-05-20 12:27:25 | INFO     | SearchResultsPage | Filter locator was unavailable or stale, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[11]/div/div/div[2]/div[2]')
+2026-05-20 12:27:26 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='amenities' and self::div]/following-sibling::div//*[@datalabel='AMENITIES_CLUSTER'][2]")
+2026-05-20 12:27:26 | INFO     | SearchResultsPage | Page loaded completely: https://www.99acres.com/search/property/buy/mumbai?city=12&keyword=Mumbai&preference=S&res_com=R
+2026-05-20 12:27:41 | INFO     | SearchResultsPage | Final action locator was not present, trying fallback: ('xpath', '/html/body/div[1]/div/div/div[3]/div[3]/div[2]/section[2]/div/div/div[2]/div[2]/button[1]')
+2026-05-20 12:27:42 | INFO     | SearchResultsPage | Clicked final action button after filters were applied: ('xpath', '/html/body/div[1]/div/div/div[4]/div[3]/div[2]/section[2]/div/div/div[2]/div[2]/button[1]')

@@ -1,0 +1,6 @@
+2026-05-20 12:25:13 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:25:15 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-20 12:25:18 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-20 12:25:22 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
+2026-05-20 12:25:24 | INFO     | HomePage | Clicked available locator: ('id', 'searchform_search_btn')
+2026-05-20 12:25:28 | INFO     | pytest | Closing browser after test execution

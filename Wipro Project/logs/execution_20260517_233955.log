@@ -1,0 +1,4 @@
+2026-05-17 23:39:55 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-17 23:40:24 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-17 23:40:34 | ERROR    | HomePage | Missing primary menu items: ['Agents']
+2026-05-17 23:40:37 | INFO     | HomePage | Opening URL: https://www.99acres.com/

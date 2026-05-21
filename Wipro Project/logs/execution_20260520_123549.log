@@ -1,0 +1,110 @@
+2026-05-20 12:35:49 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:35:51 | INFO     | e2e | Opening home page for end-to-end flow: https://www.99acres.com/
+2026-05-20 12:35:59 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_01_home_page_opened_20260520_123558.png
+2026-05-20 12:35:59 | INFO     | e2e | Opening login popup from home page.
+2026-05-20 12:36:00 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_02_login_popup_opened_20260520_123559.png
+2026-05-20 12:36:00 | INFO     | e2e | Entering mobile number and pausing for manual OTP entry.
+2026-05-20 12:36:11 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_03_after_manual_otp_pause_20260520_123611.png
+2026-05-20 12:36:11 | INFO     | e2e | Searching properties for location: Mumbai
+2026-05-20 12:36:19 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_04_mumbai_results_loaded_20260520_123618.png
+2026-05-20 12:37:11 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_05_filters_applied_20260520_123710.png
+2026-05-20 12:37:12 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_06_e2e_flow_completed_20260520_123712.png
+2026-05-20 12:37:12 | INFO     | pytest | Closing browser after test execution
+2026-05-20 12:37:16 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:37:25 | INFO     | pytest | Closing browser after test execution
+2026-05-20 12:37:28 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:37:46 | INFO     | pytest | Closing browser after test execution
+2026-05-20 12:37:49 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:37:56 | ERROR    | pytest | Test failed, but screenshot capture was unavailable: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff79aaee295+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff79aaee2f4+e154]
+	msedgedriver!(No symbol) [0x7ff79a81ac4e]
+	msedgedriver!(No symbol) [0x7ff79a858d05]
+	msedgedriver!(No symbol) [0x7ff79a884022]
+	msedgedriver!(No symbol) [0x7ff79a812767]
+	msedgedriver!(No symbol) [0x7ff79a8806ae]
+	msedgedriver!(No symbol) [0x7ff79a87ff3c]
+	msedgedriver!(No symbol) [0x7ff79a7f2ea5]
+	msedgedriver!(No symbol) [0x7ff79a922519]
+	msedgedriver!(No symbol) [0x7ff79a91ec93]
+	msedgedriver!(No symbol) [0x7ff79a92f182]
+	msedgedriver!GetHandleVerifier [0x7ff79ab0aa68+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff79ab132f6+33156]
+	msedgedriver!(No symbol) [0x7ff79a7f183c]
+	msedgedriver!GetHandleVerifier [0x7ff79ac74368+1941c8]
+	KERNEL32!BaseThreadInitThunk [0x7ffd0725e957+17]
+	ntdll!RtlUserThreadStart [0x7ffd0856427c+2c]
+
+2026-05-20 12:37:56 | ERROR    | pytest | Current URL attachment was unavailable: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff79aaee295+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff79aaee2f4+e154]
+	msedgedriver!(No symbol) [0x7ff79a81ac4e]
+	msedgedriver!(No symbol) [0x7ff79a858d05]
+	msedgedriver!(No symbol) [0x7ff79a884022]
+	msedgedriver!(No symbol) [0x7ff79a812767]
+	msedgedriver!(No symbol) [0x7ff79a8806ae]
+	msedgedriver!(No symbol) [0x7ff79a87ff3c]
+	msedgedriver!(No symbol) [0x7ff79a7f2ea5]
+	msedgedriver!(No symbol) [0x7ff79a922519]
+	msedgedriver!(No symbol) [0x7ff79a91ec93]
+	msedgedriver!(No symbol) [0x7ff79a92f182]
+	msedgedriver!GetHandleVerifier [0x7ff79ab0aa68+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff79ab132f6+33156]
+	msedgedriver!(No symbol) [0x7ff79a7f183c]
+	msedgedriver!GetHandleVerifier [0x7ff79ac74368+1941c8]
+	KERNEL32!BaseThreadInitThunk [0x7ffd0725e957+17]
+	ntdll!RtlUserThreadStart [0x7ffd0856427c+2c]
+
+2026-05-20 12:37:56 | INFO     | pytest | Closing browser after test execution
+2026-05-20 12:37:58 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:38:02 | ERROR    | pytest | Test failed, but screenshot capture was unavailable: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=148.0.3967.70)
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff79aaee295+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff79aaee2f4+e154]
+	msedgedriver!GetHandleVerifier [0x7ff79ae68bca+388a2a]
+	msedgedriver!(No symbol) [0x7ff79a7fdadd]
+	msedgedriver!(No symbol) [0x7ff79a8888cc]
+	msedgedriver!(No symbol) [0x7ff79a89e9bf]
+	msedgedriver!(No symbol) [0x7ff79a85a2ec]
+	msedgedriver!(No symbol) [0x7ff79a859546]
+	msedgedriver!(No symbol) [0x7ff79a85a113]
+	msedgedriver!(No symbol) [0x7ff79a922519]
+	msedgedriver!(No symbol) [0x7ff79a91ec93]
+	msedgedriver!(No symbol) [0x7ff79a92f182]
+	msedgedriver!GetHandleVerifier [0x7ff79ab0aa68+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff79ab132f6+33156]
+	msedgedriver!GetHandleVerifier [0x7ff79aaf5724+15584]
+	msedgedriver!GetHandleVerifier [0x7ff79aaf5845+156a5]
+	msedgedriver!GetHandleVerifier [0x7ff79aae2b63+29c3]
+	KERNEL32!BaseThreadInitThunk [0x7ffd0725e957+17]
+	ntdll!RtlUserThreadStart [0x7ffd0856427c+2c]
+
+2026-05-20 12:38:02 | ERROR    | pytest | Current URL attachment was unavailable: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=148.0.3967.70)
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff79aaee295+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff79aaee2f4+e154]
+	msedgedriver!GetHandleVerifier [0x7ff79ae68bca+388a2a]
+	msedgedriver!(No symbol) [0x7ff79a7fdadd]
+	msedgedriver!(No symbol) [0x7ff79a8888cc]
+	msedgedriver!(No symbol) [0x7ff79a89e9bf]
+	msedgedriver!(No symbol) [0x7ff79a85a2ec]
+	msedgedriver!(No symbol) [0x7ff79a859546]
+	msedgedriver!(No symbol) [0x7ff79a85a113]
+	msedgedriver!(No symbol) [0x7ff79a922519]
+	msedgedriver!(No symbol) [0x7ff79a91ec93]
+	msedgedriver!(No symbol) [0x7ff79a92f182]
+	msedgedriver!GetHandleVerifier [0x7ff79ab0aa68+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff79ab132f6+33156]
+	msedgedriver!GetHandleVerifier [0x7ff79aaf5724+15584]
+	msedgedriver!GetHandleVerifier [0x7ff79aaf5845+156a5]
+	msedgedriver!GetHandleVerifier [0x7ff79aae2b63+29c3]
+	KERNEL32!BaseThreadInitThunk [0x7ffd0725e957+17]
+	ntdll!RtlUserThreadStart [0x7ffd0856427c+2c]
+
+2026-05-20 12:38:02 | INFO     | pytest | Closing browser after test execution

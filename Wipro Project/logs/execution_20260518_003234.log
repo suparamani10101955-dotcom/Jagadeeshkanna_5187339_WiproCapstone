@@ -1,0 +1,53 @@
+2026-05-18 00:32:34 | INFO     | pytest | Starting browser: chrome
+2026-05-18 00:33:38 | ERROR    | pytest | Test failed. Screenshot saved: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\tests_test_login.py_TestLogin_test_login_dialog_opens_20260518_003338.png
+2026-05-18 00:33:38 | INFO     | pytest | Closing browser
+2026-05-18 00:33:41 | INFO     | pytest | Starting browser: chrome
+2026-05-18 00:33:42 | INFO     | pytest | Closing browser
+2026-05-18 00:33:45 | INFO     | pytest | Starting browser: chrome
+2026-05-18 00:34:27 | ERROR    | pytest | Test failed. Screenshot saved: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\tests_test_navigation.py_TestNavigation_test_primary_menu_items_visible_20260518_003427.png
+2026-05-18 00:34:27 | INFO     | pytest | Closing browser
+2026-05-18 00:34:29 | INFO     | pytest | Starting browser: chrome
+2026-05-18 00:36:21 | ERROR    | pytest | Test failed, but screenshot capture was unavailable: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7ad931e35+2e8d45]
+	chromedriver!GetHandleVerifier [0x7ff7ad65e6c0+155d0]
+	chromedriver!(No symbol) [0x7ff7ad3ad366]
+	chromedriver!(No symbol) [0x7ff7ad3f8dd6]
+	chromedriver!(No symbol) [0x7ff7ad42fd72]
+	chromedriver!(No symbol) [0x7ff7ad429baf]
+	chromedriver!(No symbol) [0x7ff7ad429373]
+	chromedriver!(No symbol) [0x7ff7ad376325]
+	chromedriver!GetHandleVerifier [0x7ff7ad95dab9+3149c9]
+	chromedriver!GetHandleVerifier [0x7ff7ad95802b+30ef3b]
+	chromedriver!GetHandleVerifier [0x7ff7ad97c872+333782]
+	chromedriver!GetHandleVerifier [0x7ff7ad67b785+32695]
+	chromedriver!GetHandleVerifier [0x7ff7ad6842bc+3b1cc]
+	chromedriver!(No symbol) [0x7ff7ad3750bc]
+	chromedriver!GetHandleVerifier [0x7ff7adaadc58+464b68]
+	KERNEL32!BaseThreadInitThunk [0x7ffc8794e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc8858427c+2c]
+
+2026-05-18 00:36:21 | ERROR    | pytest | Current URL attachment was unavailable: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7ad931e35+2e8d45]
+	chromedriver!GetHandleVerifier [0x7ff7ad65e6c0+155d0]
+	chromedriver!(No symbol) [0x7ff7ad3ad366]
+	chromedriver!(No symbol) [0x7ff7ad3f8dd6]
+	chromedriver!(No symbol) [0x7ff7ad42fd72]
+	chromedriver!(No symbol) [0x7ff7ad429baf]
+	chromedriver!(No symbol) [0x7ff7ad429373]
+	chromedriver!(No symbol) [0x7ff7ad376325]
+	chromedriver!GetHandleVerifier [0x7ff7ad95dab9+3149c9]
+	chromedriver!GetHandleVerifier [0x7ff7ad95802b+30ef3b]
+	chromedriver!GetHandleVerifier [0x7ff7ad97c872+333782]
+	chromedriver!GetHandleVerifier [0x7ff7ad67b785+32695]
+	chromedriver!GetHandleVerifier [0x7ff7ad6842bc+3b1cc]
+	chromedriver!(No symbol) [0x7ff7ad3750bc]
+	chromedriver!GetHandleVerifier [0x7ff7adaadc58+464b68]
+	KERNEL32!BaseThreadInitThunk [0x7ffc8794e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc8858427c+2c]
+
+2026-05-18 00:36:21 | INFO     | pytest | Closing browser
+2026-05-18 00:36:23 | INFO     | pytest | Starting browser: chrome
+2026-05-18 00:36:53 | ERROR    | pytest | Test failed. Screenshot saved: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\tests_test_property_search.py_TestPropertySearch_test_mumbai_search_and_requested_filters_with_xpaths_20260518_003653.png
+2026-05-18 00:36:53 | INFO     | pytest | Closing browser

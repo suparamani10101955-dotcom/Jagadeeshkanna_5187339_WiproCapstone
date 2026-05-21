@@ -1,0 +1,7 @@
+2026-05-19 14:45:33 | INFO     | pytest | Starting browser: edge
+2026-05-19 14:45:35 | INFO     | e2e | Opening home page for end-to-end flow: https://www.99acres.com/
+2026-05-19 14:45:43 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_01_home_page_opened_20260519_144542.png
+2026-05-19 14:45:43 | INFO     | e2e | Opening login popup from home page.
+2026-05-19 14:45:44 | INFO     | e2e | Captured E2E step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\e2e_02_login_popup_opened_20260519_144543.png
+2026-05-19 14:45:44 | INFO     | e2e | Entering mobile number and pausing for manual OTP entry.
+2026-05-19 14:46:27 | INFO     | pytest | Closing browser after complete test session

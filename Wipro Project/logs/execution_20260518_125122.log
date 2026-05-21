@@ -1,0 +1,15 @@
+2026-05-18 12:51:45 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[2]/div/div[2]/div/div[1]')
+2026-05-18 12:51:45 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_min_list"]/li[5]')
+2026-05-18 12:51:57 | INFO     | SearchResultsPage | Requested max-budget dropdown XPath was unavailable; using visible max-budget control.
+2026-05-18 12:51:57 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', "//*[contains(@class, 'bdf__maxValue') and normalize-space()='No max']")
+2026-05-18 12:51:58 | INFO     | SearchResultsPage | Clicked available locator: ('xpath', '//*[@id="lf_budget_max_list"]/li[11]')
+2026-05-18 12:51:59 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '/html/body/div[1]/div/div/div[4]/div[2]/div/div[4]/div/div/div[2]/div[2]')
+2026-05-18 12:51:59 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', '//*[@id="__Owner__"]')
+2026-05-18 12:52:04 | INFO     | SearchResultsPage | Bedroom filters are unavailable after property-type click; selecting Residential Apartment.
+2026-05-18 12:52:04 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='property_type' and self::div]/following-sibling::div//*[@datalabel='PROPTYPE_CLUSTER' and @id='1']")
+2026-05-18 12:52:15 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='bedroom_num' and self::div]/following-sibling::div//*[@datalabel='BEDROOM_CLUSTER' and @id='1']")
+2026-05-18 12:52:25 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='bedroom_num' and self::div]/following-sibling::div//*[@datalabel='BEDROOM_CLUSTER' and @id='3']")
+2026-05-18 12:52:35 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='furnish' and self::div]")
+2026-05-18 12:52:36 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='furnish' and self::div]/following-sibling::div//*[self::div or self::label][normalize-space()][1]")
+2026-05-18 12:52:47 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='amenities' and self::div]/following-sibling::div//*[@datalabel='AMENITIES_CLUSTER'][3]")
+2026-05-18 12:52:57 | INFO     | SearchResultsPage | Clicked requested filter locator: ('xpath', "//*[@id='amenities' and self::div]/following-sibling::div//*[@datalabel='AMENITIES_CLUSTER'][2]")

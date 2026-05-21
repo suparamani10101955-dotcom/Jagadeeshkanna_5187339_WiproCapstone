@@ -1,0 +1,2 @@
+2026-05-17 23:40:19 | INFO     | pytest | Starting browser: chrome
+2026-05-17 23:40:21 | INFO     | pytest | Closing browser

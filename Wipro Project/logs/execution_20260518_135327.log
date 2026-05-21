@@ -1,0 +1,7 @@
+2026-05-18 13:53:28 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-18 13:53:34 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-18 13:53:39 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-18 13:53:39 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-18 13:53:42 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[@id='suggestions_custom']/li[@title='Mumbai']")
+2026-05-18 13:53:45 | INFO     | HomePage | Clicked available locator: ('xpath', '//*[@id="searchform_search_btn"]')
+2026-05-18 13:53:45 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/search/property/buy/mumbai?city=12&preference=S&res_com=R

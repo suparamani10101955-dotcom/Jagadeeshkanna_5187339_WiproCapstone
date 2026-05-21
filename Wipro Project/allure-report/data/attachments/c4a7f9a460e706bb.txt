@@ -1,0 +1,52 @@
+2026-05-20 12:27:52 | INFO     | pytest | Starting browser: edge
+2026-05-20 12:27:54 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-20 12:27:58 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
+2026-05-20 12:28:02 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-20 12:28:11 | INFO     | HomePage | Clicked available locator: ('id', 'searchform_search_btn')
+2026-05-20 12:28:29 | ERROR    | pytest | Test failed, but screenshot capture was unavailable: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=148.0.3967.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7ed6be295+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6be2f4+e154]
+	msedgedriver!GetHandleVerifier [0x7ff7eda38bca+388a2a]
+	msedgedriver!(No symbol) [0x7ff7ed3dc5f2]
+	msedgedriver!(No symbol) [0x7ff7ed3f7de3]
+	msedgedriver!(No symbol) [0x7ff7ed458a71]
+	msedgedriver!(No symbol) [0x7ff7ed46e9bf]
+	msedgedriver!(No symbol) [0x7ff7ed42a2ec]
+	msedgedriver!(No symbol) [0x7ff7ed429546]
+	msedgedriver!(No symbol) [0x7ff7ed42a113]
+	msedgedriver!(No symbol) [0x7ff7ed4f2519]
+	msedgedriver!(No symbol) [0x7ff7ed4eec93]
+	msedgedriver!(No symbol) [0x7ff7ed4ff182]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6daa68+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6e32f6+33156]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6c5724+15584]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6c5845+156a5]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6b2b63+29c3]
+	KERNEL32!BaseThreadInitThunk [0x7ffd0725e957+17]
+	ntdll!RtlUserThreadStart [0x7ffd0856427c+2c]
+
+2026-05-20 12:28:30 | ERROR    | pytest | Current URL attachment was unavailable: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7ed6be295+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6be2f4+e154]
+	msedgedriver!(No symbol) [0x7ff7ed3eac4e]
+	msedgedriver!(No symbol) [0x7ff7ed428d05]
+	msedgedriver!(No symbol) [0x7ff7ed454022]
+	msedgedriver!(No symbol) [0x7ff7ed3e2767]
+	msedgedriver!(No symbol) [0x7ff7ed4506ae]
+	msedgedriver!(No symbol) [0x7ff7ed44ff3c]
+	msedgedriver!(No symbol) [0x7ff7ed3c2ea5]
+	msedgedriver!(No symbol) [0x7ff7ed4f2519]
+	msedgedriver!(No symbol) [0x7ff7ed4eec93]
+	msedgedriver!(No symbol) [0x7ff7ed4ff182]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6daa68+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff7ed6e32f6+33156]
+	msedgedriver!(No symbol) [0x7ff7ed3c183c]
+	msedgedriver!GetHandleVerifier [0x7ff7ed844368+1941c8]
+	KERNEL32!BaseThreadInitThunk [0x7ffd0725e957+17]
+	ntdll!RtlUserThreadStart [0x7ffd0856427c+2c]
+
+2026-05-20 12:28:30 | INFO     | pytest | Closing browser after test execution

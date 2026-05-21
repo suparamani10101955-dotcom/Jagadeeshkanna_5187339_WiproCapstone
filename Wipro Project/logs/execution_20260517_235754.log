@@ -1,0 +1,4 @@
+2026-05-17 23:57:54 | INFO     | HomePage | Opening URL: https://www.99acres.com/
+2026-05-17 23:58:03 | INFO     | HomePage | Cookie confirmation was not shown.
+2026-05-17 23:58:05 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[@id='suggestions_custom']/li[@title='Mumbai']")
+2026-05-17 23:58:07 | INFO     | HomePage | Clicked available locator: ('xpath', '//*[@id="searchform_search_btn"]')

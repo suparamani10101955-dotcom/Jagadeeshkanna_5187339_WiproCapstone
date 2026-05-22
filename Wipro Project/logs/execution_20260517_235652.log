@@ -1,2 +1,0 @@
-2026-05-17 23:56:52 | INFO     | HomePage | Opening URL: https://www.99acres.com/
-2026-05-17 23:56:57 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")

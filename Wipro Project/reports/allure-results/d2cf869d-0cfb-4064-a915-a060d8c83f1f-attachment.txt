@@ -1,4 +1,0 @@
-2026-05-18 00:05:30 | INFO     | pytest | Starting browser: chrome
-2026-05-18 00:05:31 | INFO     | HomePage | Opening URL: https://www.99acres.com/
-2026-05-18 00:05:42 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
-2026-05-18 00:05:43 | INFO     | pytest | Closing browser

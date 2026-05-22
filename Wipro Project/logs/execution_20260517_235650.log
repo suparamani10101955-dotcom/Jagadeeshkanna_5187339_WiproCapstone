@@ -1,3 +1,0 @@
-2026-05-17 23:56:50 | INFO     | pytest | Starting browser: chrome
-2026-05-17 23:57:10 | ERROR    | pytest | Test failed. Screenshot saved: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\tests_test_property_search.py_TestPropertySearch_test_mumbai_search_and_budget_filter_with_requested_xpaths_20260517_235709.png
-2026-05-17 23:57:10 | INFO     | pytest | Closing browser

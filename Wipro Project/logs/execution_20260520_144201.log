@@ -1,7 +1,0 @@
-2026-05-20 14:42:09 | INFO     | SearchResultsPage | Failed to open property with locator ('xpath', "(//a[contains(@href,'property') or contains(@href,'project')])[1]"): Message: 
-
-2026-05-20 14:42:19 | INFO     | SearchResultsPage | Failed to open property with locator ('xpath', "(//*[contains(@class,'srpTuple')]//a)[1]"): Message: 
-
-2026-05-20 14:42:27 | INFO     | SearchResultsPage | Failed to open property with locator ('xpath', "(//a[contains(@href,'/buy/') or contains(@href,'/project-') or contains(@href,'/property-in-')])[1]"): Message: 
-
-2026-05-20 14:42:29 | INFO     | SearchResultsPage | Page loaded completely: https://www.99acres.com/

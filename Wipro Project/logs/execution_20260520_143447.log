@@ -1,7 +1,0 @@
-2026-05-20 14:35:07 | INFO     | LoginPage | Entering mobile number using locator: ('xpath', "//input[@data-for='phnNumber']")
-2026-05-20 14:35:12 | INFO     | LoginPage | Clicked available locator: ('xpath', "//button[normalize-space()='Continue']")
-2026-05-20 14:35:17 | INFO     | LoginPage | Mobile number submitted. Pausing for 60 seconds to allow manual OTP entry. No further actions will run during this wait.
-2026-05-20 14:36:17 | INFO     | LoginPage | Manual OTP wait completed. Verifying whether login has completed successfully.
-2026-05-20 14:36:17 | INFO     | LoginPage | Login success confirmed. Waiting 20 seconds for the post-login page to stabilize.
-2026-05-20 14:36:37 | INFO     | LoginPage | Page loaded completely: https://www.99acres.com/
-2026-05-20 14:36:37 | INFO     | LoginPage | Post-login stabilization wait completed. E2E flow can continue.

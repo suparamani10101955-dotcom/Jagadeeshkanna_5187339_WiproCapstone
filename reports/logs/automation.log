@@ -65,3 +65,109 @@
 2026-05-21 20:23:57,692 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
 2026-05-21 20:23:57,692 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260521_202357.png
 2026-05-21 20:23:57,696 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-21 21:42:32,819 | INFO | environment.py | Starting scenario: Apply owner, dropdown, and checkbox filters
+2026-05-21 21:43:05,713 | ERROR | environment.py | Step failed: the user selects the Login/Register option
+2026-05-21 21:43:05,981 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Apply_owner__dropdown__and_checkbox_filters_the_user_selects_the_Login_Register_option_20260521_214305.png
+2026-05-21 21:43:06,275 | ERROR | environment.py | Scenario failed: Apply owner, dropdown, and checkbox filters
+2026-05-21 21:43:06,276 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Apply_owner__dropdown__and_checkbox_filters_scenario_failure_20260521_214306.png
+2026-05-21 21:43:06,278 | INFO | environment.py | Closing browser for scenario: Apply owner, dropdown, and checkbox filters
+2026-05-21 21:43:08,675 | INFO | environment.py | Starting scenario: Login flow until manual OTP entry
+2026-05-21 21:45:35,969 | ERROR | environment.py | Step failed: the system waits for manual OTP entry
+2026-05-21 22:07:42,307 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-21 22:08:47,239 | ERROR | environment.py | Step failed: the user completes OTP login
+2026-05-21 22:08:47,501 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_user_completes_OTP_login_20260521_220847.png
+2026-05-21 22:08:47,731 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-21 22:08:47,731 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260521_220847.png
+2026-05-21 22:08:47,731 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-21 22:10:50,074 | INFO | environment.py | Starting scenario: Apply owner, dropdown, and checkbox filters
+2026-05-21 22:20:57,139 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-21 22:21:50,750 | ERROR | environment.py | Step failed: the user searches for properties
+2026-05-21 22:21:51,014 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_user_searches_for_properties_20260521_222150.png
+2026-05-21 22:21:51,244 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-21 22:21:51,244 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260521_222151.png
+2026-05-21 22:21:51,244 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-21 22:27:21,526 | ERROR | environment.py | Step failed: the system waits for manual OTP entry
+2026-05-21 22:28:04,566 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-21 22:33:36,208 | ERROR | environment.py | Step failed: the system waits for manual OTP entry
+2026-05-21 22:33:50,919 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-21 22:37:45,709 | ERROR | environment.py | Step failed: the system waits for manual OTP entry
+2026-05-21 22:37:46,107 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_system_waits_for_manual_OTP_entry_20260521_223745.png
+2026-05-21 22:37:46,321 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-21 22:37:46,321 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260521_223746.png
+2026-05-21 22:37:46,325 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-21 22:38:01,444 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-22 00:25:53,173 | ERROR | environment.py | Step failed: the system waits for manual OTP entry
+2026-05-22 00:25:53,538 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_system_waits_for_manual_OTP_entry_20260522_002553.png
+2026-05-22 00:25:53,896 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-22 00:25:53,896 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260522_002553.png
+2026-05-22 00:25:53,898 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-22 00:26:04,601 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-22 00:33:55,442 | ERROR | environment.py | Step failed: the system waits for manual OTP entry
+2026-05-22 00:33:55,636 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_system_waits_for_manual_OTP_entry_20260522_003355.png
+2026-05-22 00:33:55,822 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-22 00:33:55,822 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260522_003355.png
+2026-05-22 00:33:55,824 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-22 00:35:56,578 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-22 00:37:54,157 | ERROR | environment.py | Step failed: the user applies property filters
+2026-05-22 00:37:54,296 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_user_applies_property_filters_20260522_003754.png
+2026-05-22 00:37:54,497 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-22 00:37:54,497 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260522_003754.png
+2026-05-22 00:37:54,500 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-22 00:47:42,543 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-22 00:50:07,192 | ERROR | environment.py | Step failed: the user applies property filters
+2026-05-22 00:50:07,360 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_user_applies_property_filters_20260522_005007.png
+2026-05-22 00:50:07,535 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-22 00:50:07,536 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260522_005007.png
+2026-05-22 00:50:07,538 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-22 01:00:44,684 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-22 01:02:29,862 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-22 20:07:17,602 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-22 20:11:37,385 | ERROR | environment.py | Step failed: the user applies property filters
+2026-05-22 20:11:37,568 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_user_applies_property_filters_20260522_201137.png
+2026-05-22 20:11:37,767 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-22 20:11:37,767 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260522_201137.png
+2026-05-22 20:11:37,767 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-22 20:35:46,313 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-22 20:40:05,224 | ERROR | environment.py | Step failed: the user applies property filters
+2026-05-22 20:40:05,457 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_user_applies_property_filters_20260522_204005.png
+2026-05-22 20:40:05,679 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-22 20:40:05,679 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260522_204005.png
+2026-05-22 20:40:05,679 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-22 20:42:41,470 | INFO | environment.py | Starting scenario: Complete login, search, filter, and property details flow
+2026-05-22 20:47:03,358 | ERROR | environment.py | Step failed: the user applies property filters
+2026-05-22 20:47:03,570 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_the_user_applies_property_filters_20260522_204703.png
+2026-05-22 20:47:03,771 | ERROR | environment.py | Scenario failed: Complete login, search, filter, and property details flow
+2026-05-22 20:47:03,771 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Complete_login__search__filter__and_property_details_flow_scenario_failure_20260522_204703.png
+2026-05-22 20:47:03,771 | INFO | environment.py | Closing browser for scenario: Complete login, search, filter, and property details flow
+2026-05-22 21:14:00,856 | INFO | environment.py | Starting scenario: Search with Empty Input
+2026-05-22 21:14:06,944 | INFO | negative_search_steps.py | Opening 99acres homepage for negative search scenario.
+2026-05-22 21:14:09,222 | INFO | negative_search_steps.py | Leaving property search field empty.
+2026-05-22 21:14:29,883 | ERROR | environment.py | Step failed: the user leaves the property search field empty
+2026-05-22 21:14:30,114 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Search_with_Empty_Input_the_user_leaves_the_property_search_field_empty_20260522_211429.png
+2026-05-22 21:14:30,329 | ERROR | environment.py | Scenario failed: Search with Empty Input
+2026-05-22 21:14:30,329 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Search_with_Empty_Input_scenario_failure_20260522_211430.png
+2026-05-22 21:14:30,329 | INFO | environment.py | Closing browser for scenario: Search with Empty Input
+2026-05-22 21:14:32,664 | INFO | environment.py | Starting scenario: Enter Only Spaces in Search Field
+2026-05-22 21:14:37,352 | INFO | negative_search_steps.py | Opening 99acres homepage for negative search scenario.
+2026-05-22 21:14:39,374 | INFO | negative_search_steps.py | Entering only spaces in property search field.
+2026-05-22 21:14:59,930 | ERROR | environment.py | Step failed: the user enters only spaces in the property search field
+2026-05-22 21:15:00,187 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Enter_Only_Spaces_in_Search_Field_the_user_enters_only_spaces_in_the_property_search_field_20260522_211459.png
+2026-05-22 21:15:00,451 | ERROR | environment.py | Scenario failed: Enter Only Spaces in Search Field
+2026-05-22 21:15:00,451 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Enter_Only_Spaces_in_Search_Field_scenario_failure_20260522_211500.png
+2026-05-22 21:15:00,451 | INFO | environment.py | Closing browser for scenario: Enter Only Spaces in Search Field
+2026-05-22 21:26:03,469 | INFO | environment.py | Starting scenario: Search with Empty Input
+2026-05-22 21:26:08,706 | INFO | negative_search_steps.py | Opening 99acres homepage for negative search scenario.
+2026-05-22 21:26:10,508 | INFO | negative_search_steps.py | Leaving property search field empty.
+2026-05-22 21:26:30,871 | ERROR | environment.py | Step failed: the user leaves the property search field empty
+2026-05-22 21:26:31,119 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Search_with_Empty_Input_the_user_leaves_the_property_search_field_empty_20260522_212630.png
+2026-05-22 21:26:31,341 | ERROR | environment.py | Scenario failed: Search with Empty Input
+2026-05-22 21:26:31,341 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Search_with_Empty_Input_scenario_failure_20260522_212631.png
+2026-05-22 21:26:31,341 | INFO | environment.py | Closing browser for scenario: Search with Empty Input
+2026-05-22 21:26:33,702 | INFO | environment.py | Starting scenario: Enter Only Spaces in Search Field
+2026-05-22 21:26:38,597 | INFO | negative_search_steps.py | Opening 99acres homepage for negative search scenario.
+2026-05-22 21:26:40,590 | INFO | negative_search_steps.py | Entering only spaces in property search field.
+2026-05-22 21:27:00,967 | ERROR | environment.py | Step failed: the user enters only spaces in the property search field
+2026-05-22 21:27:01,197 | ERROR | environment.py | Failure screenshot captured: reports\screenshots\Enter_Only_Spaces_in_Search_Field_the_user_enters_only_spaces_in_the_property_search_field_20260522_212700.png
+2026-05-22 21:27:01,455 | ERROR | environment.py | Scenario failed: Enter Only Spaces in Search Field
+2026-05-22 21:27:01,455 | ERROR | environment.py | Scenario failure screenshot captured: reports\screenshots\Enter_Only_Spaces_in_Search_Field_scenario_failure_20260522_212701.png
+2026-05-22 21:27:01,455 | INFO | environment.py | Closing browser for scenario: Enter Only Spaces in Search Field

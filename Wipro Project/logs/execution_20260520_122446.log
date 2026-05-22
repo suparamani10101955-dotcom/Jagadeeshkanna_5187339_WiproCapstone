@@ -1,3 +1,0 @@
-2026-05-20 12:25:00 | INFO     | LoginPage | Entering mobile number using locator: ('xpath', "//input[@data-for='phnNumber']")
-2026-05-20 12:25:06 | INFO     | LoginPage | Clicked available locator: ('xpath', "//button[normalize-space()='Continue']")
-2026-05-20 12:25:10 | INFO     | LoginPage | Waiting up to 60 seconds for login success indicators.

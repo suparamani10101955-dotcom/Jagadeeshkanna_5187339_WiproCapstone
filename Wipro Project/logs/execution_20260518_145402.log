@@ -1,3 +1,0 @@
-2026-05-18 14:54:11 | INFO     | LoginPage | Entering mobile number using locator: ('xpath', "//input[@data-for='phnNumber']")
-2026-05-18 14:54:16 | INFO     | LoginPage | Clicked available locator: ('xpath', "//button[normalize-space()='Continue']")
-2026-05-18 14:54:21 | INFO     | LoginPage | Paused for 60 seconds so OTP can be entered manually.

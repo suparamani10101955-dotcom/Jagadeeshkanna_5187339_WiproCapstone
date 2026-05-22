@@ -1,2 +1,0 @@
-2026-05-18 12:42:15 | INFO     | LoginPage | Clicked available locator: ('xpath', "//button[contains(., 'Continue') or contains(., 'Login') or contains(., 'Next')]")
-2026-05-18 12:42:15 | INFO     | LoginPage | Paused for 60 seconds so OTP can be entered manually.

@@ -1,9 +1,0 @@
-2026-05-19 14:23:38 | INFO     | HomePage | Opening URL: https://www.99acres.com/
-2026-05-19 14:23:40 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
-2026-05-19 14:23:44 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
-2026-05-19 14:23:44 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
-2026-05-19 14:23:45 | INFO     | HomePage | Hovered on login icon: ('xpath', "//i[contains(@class,'icon_userWhite') and contains(@class,'theader__dot')]")
-2026-05-19 14:23:45 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[contains(text(),'LOGIN / REGISTER') or contains(text(),'Login / Register') or contains(text(),'LOGIN/REGISTER') or contains(text(),'Login/Register')]")
-2026-05-19 14:23:47 | INFO     | LoginPage | Entering mobile number using locator: ('xpath', "//input[@data-for='phnNumber']")
-2026-05-19 14:23:52 | INFO     | LoginPage | Clicked available locator: ('xpath', "//button[normalize-space()='Continue']")
-2026-05-19 14:23:57 | INFO     | LoginPage | Paused for 60 seconds so OTP can be entered manually.

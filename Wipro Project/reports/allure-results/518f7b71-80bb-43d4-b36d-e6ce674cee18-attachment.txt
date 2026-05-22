@@ -1,5 +1,0 @@
-2026-05-18 00:05:45 | INFO     | pytest | Starting browser: chrome
-2026-05-18 00:05:46 | INFO     | HomePage | Opening URL: https://www.99acres.com/
-2026-05-18 00:05:57 | INFO     | HomePage | Cookie confirmation was not shown.
-2026-05-18 00:05:58 | INFO     | HomePage | Clicked available locator: ('id', 'searchform_search_btn')
-2026-05-18 00:05:58 | INFO     | pytest | Closing browser

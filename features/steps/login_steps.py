@@ -33,3 +33,9 @@ def step_click_continue(context):
 @then("the system waits for manual OTP entry")
 def step_wait_for_otp(context):
     context.login_page.wait_for_manual_otp()
+
+
+@when("the user completes OTP login")
+@then("the user completes OTP login")
+def step_complete_otp_login(context):
+    context.login_page.complete_otp_login()

@@ -1,3 +1,0 @@
-2026-05-18 12:49:34 | INFO     | LoginPage | Entering mobile number using locator: ('xpath', "//*[@id='app']/div/div[7]/div[2]/div[1]/div/div/form/div[1]/div/div/input")
-2026-05-18 12:49:48 | INFO     | LoginPage | Clicked available locator: ('xpath', "//button[normalize-space()='Continue']")
-2026-05-18 12:49:48 | INFO     | LoginPage | Paused for 60 seconds so OTP can be entered manually.

@@ -1,8 +1,0 @@
-2026-05-20 14:38:24 | INFO     | pytest | Starting browser: chrome
-2026-05-20 14:38:26 | INFO     | HomePage | Opening URL: https://www.99acres.com/
-2026-05-20 14:38:27 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
-2026-05-20 14:38:32 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
-2026-05-20 14:38:33 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[@id='suggestions_custom']/li[@title='Mumbai']")
-2026-05-20 14:38:34 | INFO     | HomePage | Clicked available locator: ('xpath', '//*[@id="searchform_search_btn"]')
-2026-05-20 14:38:37 | INFO     | tests | Captured step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\individual_property_search_results_20260520_143834.png
-2026-05-20 14:38:37 | INFO     | pytest | Closing browser after test execution

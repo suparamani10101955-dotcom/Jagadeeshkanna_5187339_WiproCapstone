@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.idea/
+.env
+.venv/
+venv/
+
+reports/allure-report/
+reports/allure-results/
+reports/logs/
+reports/screenshots/
+
+allure-report/
+allure-results/
+logger/
+screenshots/

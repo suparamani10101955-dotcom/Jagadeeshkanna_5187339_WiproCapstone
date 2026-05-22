@@ -12,16 +12,15 @@ class DriverFactory:
         chrome_options.add_argument("--start-maximized")
         chrome_options.add_argument("--window-size=1920,1080")
         chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        chrome_options.add_argument("--disable-notifications")
+        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
         chrome_options.add_experimental_option("useAutomationExtension", False)
-
         service = Service(self._resolve_chromedriver_path())
+        service.creation_flags = 0x08000000
         driver = webdriver.Chrome(service=service, options=chrome_options)
         driver.execute_cdp_cmd(
             "Page.addScriptToEvaluateOnNewDocument",
-            {
-                "source": "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
-            },
+            {"source": "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"},
         )
         driver.implicitly_wait(0)
         return driver
@@ -30,10 +29,7 @@ class DriverFactory:
         driver_path = Path(ChromeDriverManager().install())
         if driver_path.suffix.lower() == ".exe":
             return str(driver_path)
-
         candidates = sorted(driver_path.parent.rglob("chromedriver.exe"))
         if not candidates:
-            raise FileNotFoundError(
-                f"ChromeDriver executable was not found near: {driver_path}"
-            )
+            raise FileNotFoundError(f"ChromeDriver executable was not found near: {driver_path}")
         return str(candidates[0])

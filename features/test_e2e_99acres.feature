@@ -10,6 +10,7 @@ Feature: 99acres end-to-end journey
     And the user enters mobile number "9629705329"
     And the user clicks the Continue button
     And the system waits for manual OTP entry
+    And the user completes OTP login
     And the user searches for properties
     And the user applies property filters
     And the user opens the property details page

@@ -1,8 +1,0 @@
-2026-05-20 14:34:29 | INFO     | pytest | Starting browser: chrome
-2026-05-20 14:34:31 | INFO     | HomePage | Opening URL: https://www.99acres.com/
-2026-05-20 14:34:39 | INFO     | HomePage | Page loaded completely: https://www.99acres.com/
-2026-05-20 14:34:44 | INFO     | HomePage | Clicked available locator: ('xpath', "//button[normalize-space()='Okay' or normalize-space()='OK']")
-2026-05-20 14:34:45 | INFO     | HomePage | Hovered on login icon: ('xpath', "//i[contains(@class,'icon_userWhite') and contains(@class,'theader__dot')]")
-2026-05-20 14:34:45 | INFO     | HomePage | Clicked available locator: ('xpath', "//*[contains(text(),'LOGIN / REGISTER') or contains(text(),'Login / Register') or contains(text(),'LOGIN/REGISTER') or contains(text(),'Login/Register')]")
-2026-05-20 14:34:46 | INFO     | tests | Captured step screenshot: C:\Users\bkavi\OneDrive\Desktop\Wipro Project\screenshots\individual_login_dialog_opened_20260520_143445.png
-2026-05-20 14:34:47 | INFO     | pytest | Closing browser after test execution

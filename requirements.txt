@@ -2,3 +2,5 @@ behave==1.2.6
 selenium==4.21.0
 webdriver-manager==4.0.1
 allure-behave==2.13.5
+pytest==8.3.2
+allure-pytest==2.13.5

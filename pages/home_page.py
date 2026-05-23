@@ -7,17 +7,23 @@ from utils.wait_utils import WaitUtils
 
 
 class HomePage:
+    SEARCH_CONTAINER = (By.XPATH, "//*[@id='d_landmark_inPageSearchBox']")
+    SEARCH_INPUT = (By.XPATH, "//*[@id='d_landmark_inPageSearchBox']//input")
     COOKIE_OK_BUTTON = (
         By.XPATH,
         "//button[normalize-space()='Okay' or normalize-space()='OK' or normalize-space()='Got it']",
     )
     SEARCH_FIELD = (
         By.XPATH,
-        "/html/body/div[1]/div/div[1]/div[4]/form/div/div[1]/div[2]/div/div/div[1]/div[1]/div[2]/div/div/input",
+        "//*[@id=\"d_landmark_inPageSearchBox\"]//input",
     )
     SEARCH_BUTTON = (
         By.XPATH,
-        "/html/body/div[1]/div/div[1]/div[4]/form/div[1]/div[1]/div[2]/div/div/div[1]/div[4]/button",
+        "//*[@id=\"searchform_search_btn\"]",
+    )
+    SEARCH_SUGGESTION = (
+        By.XPATH,
+        "//*[@id='suggestions_custom']//li[@title='Mumbai' or @title='MUMBAI' or contains(., 'Mumbai')]",
     )
     VALIDATION_MESSAGE = (
         By.XPATH,
@@ -45,22 +51,72 @@ class HomePage:
         try:
             self.logger.info("Entering search text: '%s'", value)
             self._dismiss_cookie_banner_if_present()
-            element = self.wait.wait_for_visibility(self.SEARCH_FIELD)
+            element = self.wait.wait_for_clickable(self.SEARCH_FIELD)
             self.driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", element)
-            self.driver.execute_script("arguments[0].focus();", element)
+            try:
+                element.click()
+            except WebDriverException:
+                self.driver.execute_script("arguments[0].click();", element)
+
             try:
                 element.clear()
             except WebDriverException:
-                pass
-            element.send_keys(Keys.CONTROL, "a")
-            element.send_keys(Keys.DELETE)
-            if value:
-                element.send_keys(value)
+                self.driver.execute_script("arguments[0].value = '';", element)
+
+            try:
+                element.send_keys(Keys.CONTROL, "a")
+                element.send_keys(Keys.DELETE)
+                if value:
+                    element.send_keys(value)
+            except WebDriverException:
+                self.driver.execute_script(
+                    """
+                    arguments[0].value = arguments[1];
+                    arguments[0].dispatchEvent(new Event('input', {bubbles: true}));
+                    arguments[0].dispatchEvent(new Event('change', {bubbles: true}));
+                    """,
+                    element,
+                    value,
+                )
             self.wait.wait_for_page_stable()
         except (TimeoutException, NoSuchElementException) as exc:
             raise AssertionError("Search field was not available.") from exc
         except WebDriverException as exc:
             raise AssertionError("Failed to enter text in the search field.") from exc
+
+    def click_search_field(self):
+        try:
+            self.logger.info("Clicking search landmark/location input field.")
+            self._dismiss_cookie_banner_if_present()
+            element = self.wait.wait_for_clickable(self.SEARCH_CONTAINER)
+            self.driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", element)
+            try:
+                element.click()
+            except WebDriverException:
+                self.driver.execute_script("arguments[0].click();", element)
+            self.wait.wait_for_page_stable()
+        except (TimeoutException, NoSuchElementException) as exc:
+            raise AssertionError("Search field was not clickable in time.") from exc
+
+    def search_for_location(self, location_name):
+        self.logger.info("Executing property search for location: %s", location_name)
+        self.click_search_field()
+        self.enter_search_text(location_name)
+        self.select_search_suggestion(location_name)
+        self.click_search_button()
+
+    def select_search_suggestion(self, location_name):
+        try:
+            self.logger.info("Selecting search suggestion for location: %s", location_name)
+            suggestion = self.wait.wait_for_clickable(self.SEARCH_SUGGESTION, 10)
+            self.driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", suggestion)
+            try:
+                suggestion.click()
+            except WebDriverException:
+                self.driver.execute_script("arguments[0].click();", suggestion)
+            self.wait.wait_for_page_stable()
+        except (TimeoutException, NoSuchElementException) as exc:
+            raise AssertionError(f"Search suggestion for {location_name} was not clickable in time.") from exc
 
     def click_search_button(self):
         try:

@@ -2,6 +2,8 @@ import logging
 from datetime import datetime
 from pathlib import Path
 
+import allure
+
 
 LOG_DIR = Path("reports") / "logs"
 SCREENSHOT_DIR = Path("reports") / "screenshots"
@@ -35,6 +37,17 @@ def capture_screenshot(driver, scenario_name, suffix="failure"):
     if driver.save_screenshot(str(screenshot_path)):
         return screenshot_path
     return None
+
+
+def capture_and_attach_screenshot(driver, scenario_name, suffix):
+    screenshot_path = capture_screenshot(driver, scenario_name, suffix)
+    if screenshot_path:
+        allure.attach.file(
+            str(screenshot_path),
+            name=f"{scenario_name} - {suffix}",
+            attachment_type=allure.attachment_type.PNG,
+        )
+    return screenshot_path
 
 
 def _sanitize_name(value):

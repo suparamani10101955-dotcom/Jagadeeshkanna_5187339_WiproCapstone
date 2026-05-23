@@ -15,16 +15,19 @@ if __name__ == "__main__":
         check=False,
     )
     if result.returncode == 0:
-        subprocess.run(
-            [
-                "allure",
-                "generate",
-                str(PROJECT_ROOT / "reports" / "allure-results"),
-                "--clean",
-                "-o",
-                str(ALLURE_REPORT),
-            ],
-            cwd=PROJECT_ROOT,
-            check=False,
-        )
+        try:
+            subprocess.run(
+                [
+                    "allure",
+                    "generate",
+                    str(PROJECT_ROOT / "reports" / "allure-results"),
+                    "--clean",
+                    "-o",
+                    str(ALLURE_REPORT),
+                ],
+                cwd=PROJECT_ROOT,
+                check=False,
+            )
+        except FileNotFoundError:
+            print("Allure CLI was not found in PATH. Test execution passed, but report generation was skipped.")
     sys.exit(result.returncode)

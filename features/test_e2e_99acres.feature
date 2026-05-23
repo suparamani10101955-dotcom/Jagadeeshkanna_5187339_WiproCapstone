@@ -1,4 +1,4 @@
-Feature: 99acres end-to-end journey
+Feature: E2E Testcase
   As a user
   I want to complete the full 99acres flow
   So that I can reach the property details page

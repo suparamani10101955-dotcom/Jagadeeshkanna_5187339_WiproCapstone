@@ -98,8 +98,8 @@ class LoginPage:
         self.wait = WaitUtils(driver, timeout)
         self.logger = get_logger(__name__)
         self.previous_url = None
-        self.manual_otp_wait_seconds = int(os.getenv("MANUAL_OTP_WAIT_SECONDS", "60"))
-        self.post_otp_wait_seconds = int(os.getenv("POST_OTP_WAIT_SECONDS", "15"))
+        self.manual_otp_wait_seconds = int(os.getenv("MANUAL_OTP_WAIT_SECONDS", "20"))
+        self.post_otp_wait_seconds = int(os.getenv("POST_OTP_WAIT_SECONDS", "10"))
 
     def open(self, url):
         self.logger.info("Opening 99acres website: %s", url)

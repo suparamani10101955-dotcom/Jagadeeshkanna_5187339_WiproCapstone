@@ -1,4 +1,4 @@
-Feature: 99acres negative search validation
+Feature: Negative Testcase
   As a user
   I want invalid search input to be blocked
   So that the website prevents empty and whitespace-only searches
